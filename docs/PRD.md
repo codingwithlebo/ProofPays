@@ -19,7 +19,7 @@ Oct 27, 2026 · @malebza
 
 | Version | Date | Section(s) changed | What changed | Regenerated? |
 | --- | --- | --- | --- | --- |
-| v0.1 | 27 Oct 2026 | All | First draft | None |
+| v0.3 | 03 November  2026 | All | First draft | None |
 | v0.2 | 29 Oct 2026 | 8.2 (M6), 8.3, 8.4, 9.1, 10.4 | Answered 6 design questions from the Stitch prompts: tab bar icons (house, plus-circle, clock, gear); permission banner colour #FFF4D6 with text #8A5A00; numeric keypad drawn as a standard 3 by 4 keypad; exact Privacy Notice wording in M6; added earlier sample Sale PP-2104 (26 Oct 2026) so S9 shows a second date; empty-state illustration set to navy #12304A, 120px wide | None yet (S5 banner and S9 list to be updated in Stitch) |
 | v0.3 | 3 Nov 2026 | 4.3, 4.4 (BR4, BR16), 6.2, 10.1, 10.4, 11.1, 11.3, 12.3 | Answered the 13 clarifications in IMPLEMENTATION\_PLAN.md Section 18: test tools and extra libraries; Edge Functions and the login\_attempts table; push-only offline sync; no restore on a new phone; test sender 5550001; receipt layout; server-side expiry; Android service permissions; unreadable message amount; received\_amount after manual confirm; edge case 1 wording | None |
 
